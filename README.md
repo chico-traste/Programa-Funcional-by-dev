@@ -22,3 +22,27 @@ El programa ejecuta una función cada segundo durante seis segundos, demostrando
 
 ```bash
 git clone https://github.com/chico-traste/Programa-Funcional-by-dev.git
+```
+2. Entra al directorio:
+```bash
+cd Programa-Funcional-by-dev
+```
+3. Ejecuta el programa:
+```bash
+node temporizador.js
+```
+🎓 Conceptos funcionales aplicados
+• 	Funciones como parámetros:  recibe  como argumento.
+• 	Funciones puras:  no depende de estado externo ni lo modifica.
+• 	Separación de lógica: El temporizador y el mensaje están desacoplados.
+
+🧑‍💻 Autor
+• 	Nombre: Mauri ()
+• 	Curso: MCA 1 2026-1 FCiencias
+• 	Fecha: 5 Nov 2025
+
+📚 Referencias
+https://nodejs.org/docs/latest/api/
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Functions
+
+
