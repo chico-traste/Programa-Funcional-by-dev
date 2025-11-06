@@ -31,17 +31,17 @@ cd Programa-Funcional-by-dev
 ```bash
 node temporizador.js
 ```
-🎓 Conceptos funcionales aplicados
+## 🎓 Conceptos funcionales aplicados
 • 	Funciones como parámetros:  recibe  como argumento.
 • 	Funciones puras:  no depende de estado externo ni lo modifica.
 • 	Separación de lógica: El temporizador y el mensaje están desacoplados.
 
-🧑‍💻 Autor
+## 🧑‍💻 Autor
 • 	Nombre: Mauri ()
 • 	Curso: MCA 1 2026-1 FCiencias
 • 	Fecha: 5 Nov 2025
 
-📚 Referencias
+## 📚 Referencias
 https://nodejs.org/docs/latest/api/
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Functions
 
